@@ -1,0 +1,85 @@
+==================== PRODUCT SUMMARY ====================
+
+1. What the product does:
+CrowdWisdom Trading aggregates insights from ~2,000 top traders and provides consensus-based trading signals with entry, stop-loss, and target levels.
+
+2. Target users:
+- Active traders
+- Traders with limited research time
+- Users seeking confidence in trade decisions
+
+3. Key features:
+- Consensus filtering
+- Weekly predictions (~73% success rate)
+- Exact trade levels (entry, SL, TP)
+- Saves 100+ hours of research
+- Pro tier with daily signals
+- Flexible pricing & free tier
+
+
+==================== COMPETITOR ANALYSIS ====================
+
+Main competitors:
+- TipRanks → analyst ratings
+- Seeking Alpha → article-based insights
+- TradingView → charting platform
+- Benzinga → news-driven signals
+- Investing.com → data & tools
+
+Key difference:
+CrowdWisdom provides:
+✔ Execution-ready trades
+✔ Human trader consensus
+✔ Clear entry/exit levels
+
+While competitors:
+❌ Provide data/opinions only
+❌ No clear execution plan
+
+
+==================== REDDIT RESPONSES ====================
+
+Post 1:
+https://reddit.com/r/Daytrading/comments/1r5tqfx/19_years_trading_the_problem_wasnt_strategy/
+
+Reply:
+I've been there — multiple years of trading and realizing the issue wasn't strategy but behavior. Tracking trades and emotions helped me identify patterns like revenge trading and overconfidence. Keeping a simple journal and reviewing weekly made a huge difference.
+
+
+--------------------------------------------------
+
+Post 2:
+https://reddit.com/r/algotrading/comments/hyvzq1/the_4th_way_of_algorithmic_trading_signal/
+
+Reply:
+Interesting approach using signal processing. I’ve seen adaptive filters perform better than static strategies. Incorporating concepts like Kalman filters or Hilbert transforms can help adapt to changing market conditions.
+
+
+--------------------------------------------------
+
+Post 3:
+https://reddit.com/r/RealDayTrading/comments/1lp2lr8/the_sma_bounce_and_why_it_is_one_of_the_most/
+
+Reply:
+Totally agree — position sizing and confirmation matter a lot. I learned the hard way not to treat SMA as a strict line but a zone. Waiting for volume confirmation improved my entries significantly.
+
+
+--------------------------------------------------
+
+Post 4:
+https://reddit.com/r/AlgoatTV/comments/1sgkpx8/we_lost_money_following_trading_signals_for_many/
+
+Reply:
+Been through this too. The biggest shift for me was creating simple trading rules and sticking to them. Consistency matters more than complexity.
+
+
+--------------------------------------------------
+
+Post 5:
+https://reddit.com/r/TokenFinders/comments/1ser1u4/most_trading_setups_break_between_the_signal_and/
+
+Reply:
+Execution is where most systems fail. Adding idempotency, logging, and queue systems helped me avoid duplicate trades and missed signals.
+
+
+==================================================
