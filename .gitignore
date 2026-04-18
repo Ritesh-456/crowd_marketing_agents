@@ -1,0 +1,35 @@
+# 🔐 Environment variables (VERY IMPORTANT)
+.env
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧪 Virtual environment
+venv/
+env/
+
+# 📊 Logs
+*.log
+app.log
+
+# 📁 Output files
+output.json
+
+# 📦 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🧠 IDE / Editor
+.vscode/
+.idea/
+
+# 🖥️ OS files
+.DS_Store
+Thumbs.db
+
+# 📁 Optional (if not used)
+data/
